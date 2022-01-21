@@ -11,13 +11,13 @@ Requires 6-10 m4x10 screws, two m4 nuts, two needle bearrings HK0408 (https://ww
 Rotating piece wears out easily when made out of PLA, PETG works better
 
 Printing: 
-Base 1x
-Cap 50x
-Clip 1x
-Pole-Plate 2x
-Pole-Plate2 2x
-Rotating-Piece 1x
-Secure 2x
-Switch-holder 2x
+Base 1x,
+Cap 50x,
+Clip 1x,
+Pole-Plate 2x,
+Pole-Plate2 2x,
+Rotating-Piece 1x,
+Secure 2x,
+Switch-holder 2x,
 
 Base and Switch-Holder can be printed with 0.3mm layer height, everthing else at 0.2mm or finer
