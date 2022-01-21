@@ -18,6 +18,6 @@ Pole-Plate 2x,
 Pole-Plate2 2x,
 Rotating-Piece 1x,
 Secure 2x,
-Switch-holder 2x,
+Switch-holder 2x
 
 Base and Switch-Holder can be printed with 0.3mm layer height, everthing else at 0.2mm or finer
